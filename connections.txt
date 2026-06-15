@@ -60,5 +60,6 @@ OPPOSITE PIN - ARDUINO GND(BB)
 LDR Pin 1 -> 5V
 LDR Pin 2 -> A1
 Resistor  -> 1k ohm (or 10k recommended) from A1 to GND
+-------------------
 
 

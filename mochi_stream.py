@@ -34,7 +34,7 @@ from ddgs import DDGS
 SERIAL_PORT = 'COM6'
 BAUD_RATE = 250000
 
-GIF_FOLDER = r"C:\Users\ansrh\OneDrive\Desktop\dasai"
+GIF_FOLDER = r"where ever you saved the folder named Dasai in your pc"
 EMOJI_SPRITE_FOLDER = r"C:\Users\ansrh\OneDrive\Desktop\dasai\emojis"
 
 BOOT_GIF = "boot.gif"

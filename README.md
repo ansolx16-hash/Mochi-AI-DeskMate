@@ -4,7 +4,7 @@ An AI-powered desktop companion integrating Arduino hardware with Python-based A
 
 Getting Started
 Hardware: Read connections.txt to understand how to connect your DeskMate components on a breadboard.
-
+ 
 Firmware: Upload new_ai_mochi.ino to your Arduino board.
 
 Software: Download mochi_stream.py and run it in your terminal to begin the AI stream.

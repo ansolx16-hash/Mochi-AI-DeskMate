@@ -35,7 +35,7 @@ SERIAL_PORT = 'COM6'
 BAUD_RATE = 250000
 
 GIF_FOLDER = r"where ever you saved the folder named Dasai in your pc"
-EMOJI_SPRITE_FOLDER = r"C:\Users\ansrh\OneDrive\Desktop\dasai\emojis"
+EMOJI_SPRITE_FOLDER = r"whatever you want, this is bloatware not needed at all"
 
 BOOT_GIF = "boot.gif"
 LOVE_GIF = "love.gif"

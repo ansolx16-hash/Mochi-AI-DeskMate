@@ -1,0 +1,64 @@
+THE CONNECTIONS FOR MOCHI AI COMPANION IS AS FOLLOWS:
+NOTE:(BB) MEANS BREADBOARD RAIL
+
+------OLED--------
+GND - ARDUINO GND
+VCC - ARDUINO 3.3V
+SCK - ARDUINO A5
+SDA - ARDUINO A4
+------------------
+
+----RGB LED-------
+RED - ARDUINO D5
+GREEN - ARDUINO D6
+BLUE - ARDUINO D9
+GND - ARDUINO GND(BB)
+------------------
+
+-PASSIVE BUZZER---
+VCC - ARDUINO 5V(BB)
+I/O - ARDUINO D13
+GND - ARDUINO GND(BB)
+--------------------
+
+---TOUCH_LEFT----
+GND - ARDUINO GND(BB)
+VCC - ARDUINO 5V(BB)
+SIG - ARDUINO D3
+------------------
+
+--TOUCH_RIGHT----
+GND - ARDUINO GND(BB)
+VCC - ARDUINO 5V(BB)
+SIG - ARDUINO D4
+------------------
+
+----TOUCH_TOP----
+GND - ARDUINO GND(BB)
+VCC - ARDUINO 5V(BB)
+SIG - ARDUINO D7
+--------------------
+
+---TOUCH_FRONT_L----
+GND - ARDUINO GND(BB)
+VCC - ARDUINO 5V(BB)
+SIG - ARDUINO D8
+---------------------
+
+---TOUCH_FRONT_R----
+GND - ARDUINO GND(BB)
+VCC - ARDUINO 5V(BB)
+SIG - ARDUINO D12
+--------------------
+
+---BUTTON_PIN-------
+PIN 1 - ARDUINO D10
+OPPOSITE PIN - ARDUINO GND(BB)
+--------------------
+
+-----LDR_PIN-------
+LDR Pin 1 -> 5V
+LDR Pin 2 -> A1
+Resistor  -> 1k ohm (or 10k recommended) from A1 to GND
+
+

@@ -10,7 +10,9 @@ Read connections.txt to understand how to connect your DeskMate components on a 
 2. Firmware
 Upload new_ai_mochi.ino to your Arduino board.
 
-3. Software
+download the Dasai folder to your pc and type in your folder path on the code where it defines GIF_FOLDER depending on your pc 
+
+4. Software
 Download mochi_stream.py.
 
 Open the file in your favorite IDE.
